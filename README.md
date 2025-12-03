@@ -12,5 +12,4 @@
 2. **More frequent member updates:** Participants are still shown as being in an audio channel after a user has been inactive for a period of time.
 
 
-# [Project Wiki](https://github.com/hunt-0515/final-project-wiki/wiki)
-\[include a TOC]
+## [Project Wiki](https://github.com/hunt-0515/final-project-wiki/wiki)
